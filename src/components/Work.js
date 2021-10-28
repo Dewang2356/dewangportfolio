@@ -22,7 +22,7 @@ const Services = () => {
 					dashboard={todolist}
 					title="Todo list"
 					description="A simple Todo list web app using html css and javascript with localstorage"
-					link="https://dewang2356.github.io/"
+					link="https://dewang2356.github.io/TodoList/"
 				/>
 				<Workcard
 					dashboard={button}
