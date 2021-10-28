@@ -1,7 +1,6 @@
 import React from "react";
 import img from "../Images/wedding.jpg";
 import Typeit from "./Typeit";
-import {Link} from 'react-router-dom'
 import pdf from "../Images/CV_2021-10-25-070140.pdf";
 const Header = () => {
 	return (
